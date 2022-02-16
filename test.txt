@@ -1,2 +1,1 @@
-test  git add -A 
-test  git add -A 
+test  
